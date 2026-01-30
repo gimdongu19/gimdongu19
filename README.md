@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ## Hi there, I'm DongWoo Kim 👋
 
@@ -7,10 +7,11 @@
 </a>
 
 <br/>
+<br/>
 
 **"Consistency is excellence."** <br>
-I am a **Graduate Student Researcher** in the **Department of Smart Factory Convergence** at **Sungkyunkwan University**. <br>
-My current research focuses on **Multimodal AI** and **Industrial Anomaly Detection** in smart manufacturing environments.
+Currently, I am a **Graduate Student Researcher** in the **Department of Smart Factory Convergence** at **Sungkyunkwan University**. <br>
+I am deeply interested in **Industrial Anomaly Detection** and **Multimodal AI**, aiming to apply these technologies to real-world industrial environments.
 
 </div>
 
@@ -38,6 +39,15 @@ I am dedicated to building efficient, real-world AI systems. My core research ar
 
 ---
 
+### 🏆 Honors & Awards
+
+| Date | Award | Organization |
+| :--- | :--- | :--- |
+| **2023.12** | **Special Award** <br> *(2023 Connected Mobility Autonomous Driving Competition)* | Incheon Tourism Organization (인천관광공사) |
+| **2023.10** | **Gold Prize** <br> *(Autonomous Driving Competition)* | DongSeoul University (동서울대학교) |
+
+---
+
 ### 📝 Selected Publications
 
 * **A Study on the Design and Implementation of an On-Premise General-Purpose Text-to-SQL Agent based on MCP**
@@ -54,7 +64,7 @@ I am dedicated to building efficient, real-world AI systems. My core research ar
 
 | Date | Title | Materials |
 | :--- | :--- | :--- |
-| **2026.01.12** | **Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network** | <a href="https://www.youtube.com/watch?v=OpqY0vaChuE"><img src="https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> |
+| **2026.01.12** | **Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network** <br> *A deep dive into multimodal approaches for robust anomaly detection.* | <a href="https://www.youtube.com/watch?v=OpqY0vaChuE"><img src="https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> |
 
 ---
 
@@ -79,3 +89,8 @@ I am dedicated to building efficient, real-world AI systems. My core research ar
 
 * **Email**: gimdongu19@gmail.com
 * **HuggingFace**: [DeveloerKDW](https://huggingface.co/DeveloerKDW)
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" width="100%"/>
+</div>
