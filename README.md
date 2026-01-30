@@ -54,7 +54,7 @@ I am dedicated to building efficient, real-world AI systems. My core research ar
 
 | Date | Title | Materials |
 | :--- | :--- | :--- |
-| **2026.01.12** | **Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network** <br> *A deep dive into multimodal approaches for robust anomaly detection.* | <a href="https://www.youtube.com/watch?v=OpqY0vaChuE"><img src="https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> |
+| **2026.01.12** | **Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network** | <a href="https://www.youtube.com/watch?v=OpqY0vaChuE"><img src="https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> |
 
 ---
 
@@ -79,8 +79,3 @@ I am dedicated to building efficient, real-world AI systems. My core research ar
 
 * **Email**: gimdongu19@gmail.com
 * **HuggingFace**: [DeveloerKDW](https://huggingface.co/DeveloerKDW)
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" width="100%"/>
-</div>
