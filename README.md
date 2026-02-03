@@ -65,6 +65,7 @@ I am dedicated to building efficient, real-world AI systems. My core research ar
 | Date | Title | Materials |
 | :--- | :--- | :--- |
 | **2026.01.12** | **Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network** <br> *A deep dive into multimodal approaches for robust anomaly detection.* | <a href="https://www.youtube.com/watch?v=OpqY0vaChuE"><img src="https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> |
+|**2026.02.02** | **A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features** <br> *A deep dive into multimodal approaches for robust anomaly detection.* | <a href="https://www.youtube.com/watch?v=xwUmXodZyhc"><img src="https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> |
 
 ---
 
