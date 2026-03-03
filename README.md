@@ -23,7 +23,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 |------------|-------------------------------------------------------------------------------------------------------|-------|
 | 2026-01-12 | Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network                     | [Link](https://www.youtube.com/watch?v=OpqY0vaChuE) |
 | 2026-02-02 | A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features | [Link](https://www.youtube.com/watch?v=xwUmXodZyhc) |
-
+| 2026-03-05 | EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies | [Link](https://www.youtube.com/watch?v=LUB-qgP8UiE&t=42s) |
 ---
 
 ## 🔧 Skills
