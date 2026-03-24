@@ -21,9 +21,10 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 ## 📚 Seminar on Thesis Research
 | Date       | Title & Topic                                                                                         | Link  |
 |------------|-------------------------------------------------------------------------------------------------------|-------|
-| 2026-01-12 | Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network                     | [Link](https://www.youtube.com/watch?v=OpqY0vaChuE) |
-| 2026-02-02 | A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features | [Link](https://www.youtube.com/watch?v=xwUmXodZyhc) |
-| 2026-03-05 | EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies | [Link](https://www.youtube.com/watch?v=LUB-qgP8UiE&t=42s) |
+| 2026-01-12 | Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network                  | [Link](https://www.youtube.com/watch?v=OpqY0vaChuE) |
+| 2026-02-02 | A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features                        | [Link](https://www.youtube.com/watch?v=xwUmXodZyhc) |
+| 2026-03-05 | EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies                         | [Link](https://www.youtube.com/watch?v=LUB-qgP8UiE&t=42s) |
+| 2026-03-24 | Industry 4.0 and Beyond: The Role of 5G, WiFi 7, and Time-Sensitive Networking (TSN) in Enabling Smart Manufacturing | [Link](https://www.youtube.com/watch?v=sFvB0IkcFB8&list=PL3Qkr3sk7XnfgqWLXqSdbO09-kpgvBhdU&index=14&t=181s) |
 ---
 
 ## 🔧 Skills
