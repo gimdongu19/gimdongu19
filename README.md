@@ -25,6 +25,8 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2026-02-02 | A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features                        | [Link](https://www.youtube.com/watch?v=xwUmXodZyhc) |
 | 2026-03-05 | EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies                         | [Link](https://www.youtube.com/watch?v=LUB-qgP8UiE&t=42s) |
 | 2026-03-24 | Industry 4.0 and Beyond: The Role of 5G, WiFi 7, and Time-Sensitive Networking (TSN) in Enabling Smart Manufacturing | [Link](https://www.youtube.com/watch?v=sFvB0IkcFB8&list=PL3Qkr3sk7XnfgqWLXqSdbO09-kpgvBhdU&index=14&t=181s) |
+| 2026-03-27 | Multimodal Industrial Anomaly Dection by Crossmodal Feature Mapping                                   | [Link](https://www.youtube.com/watch?v=ZqUfDbqtVyA&list=PL3Qkr3sk7Xnc9DXujRgt-eIU6-kdhPCQv&index=42&t=44s) |
+| 2026-04-02 | Enhancing Multimodal Anomaly Detection via Asymmetric Dual-Branch Reverse Distillation                | [Link](https://www.youtube.com/watch?v=10my5VRdKww) |
 ---
 
 ## 🔧 Skills
