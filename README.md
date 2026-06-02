@@ -18,6 +18,14 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 
 ---
 
+## 📝 Papers
+
+C-MTSS: Compact Multi-Teacher Single-Student Framework for Real-Time Multimodal Industrial Anomaly Detection
+Authors: Dongwoo Kim, Taeheon Jin, Seokhyun Gong, Jieun Lee, Jongpil Jeong
+Venue: ICCSA 2026(Accepted)
+
+---
+
 ## 📚 Seminar On Thesis Research
 
 | Date       | Title & Topic                                                                                         | Link  |
