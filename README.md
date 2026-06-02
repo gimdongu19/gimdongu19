@@ -29,6 +29,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2026-04-02 | Enhancing Multimodal Anomaly Detection via Asymmetric Dual-Branch Reverse Distillation                | [Link](https://www.youtube.com/watch?v=10my5VRdKww) |
 | 2026-05-07 | G2SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection                        | [Link](https://www.youtube.com/watch?v=ODpz5UILPtE&list=PL3Qkr3sk7Xne-OtiPeRFCsW4J1zb0Q3wH&index=8&t=1s) |
 | 2026-05-08 | CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge                             | [Link](https://www.youtube.com/watch?v=fHAzstFXZno) | 2026-05-31 | Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory              | [Link](https://www.youtube.com/watch?v=MJHjkjljuoY&list=PL3Qkr3sk7Xnc9DXujRgt-eIU6-kdhPCQv&index=7&t=1642s)
+
 ---
 
 ## 🔧 Skills
