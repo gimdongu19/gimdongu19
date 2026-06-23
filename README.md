@@ -52,22 +52,31 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 
 ---
 
-💡 Intellectual Property
-Program Registrations
-Compact Multi-Teacher Single-Student 기반 멀티모달 산업 이상 탐지 및 평가 프로그램
-Korean Title: Compact Multi-Teacher Single-Student (컴팩트 멀티티처 싱글 스튜던트) 기반 멀티모달 산업 이상 탐지 및 평가 프로그램
-Application No.: 2026-035176
-Registration No.: C-2026-029219
-Registration Date: 2026-06-15
-Type: Computer Program Copyright Registration
-Organization: Korea Copyright Commission
-Cross-Predictive Reverse Distillation 기반 이상 탐지 프레임워크
-Korean Title: 멀티모달 산업 이상 탐지를 위한 Cross-Predictive Reverse Distillation (크로스-프레딕티브 리벌스 디스틸레이션) 기반 이상 탐지 프레임워크
-Application No.: 2026-033688
-Registration No.: C-2026-028000
-Registration Date: 2026-06-09
-Type: Computer Program Copyright Registration
-Organization: Korea Copyright Commission
+## 💡 Intellectual Property
+
+### Program Registrations
+
+#### Compact Multi-Teacher Single-Student 기반 멀티모달 산업 이상 탐지 및 평가 프로그램
+
+- **Korean Title:** Compact Multi-Teacher Single-Student (컴팩트 멀티티처 싱글 스튜던트) 기반 멀티모달 산업 이상 탐지 및 평가 프로그램
+- **Application No.:** 2026-035176
+- **Registration No.:** C-2026-029219
+- **Registration Date:** 2026-06-15
+- **Type:** Computer Program Copyright Registration
+- **Organization:** Korea Copyright Commission
+
+#### Cross-Predictive Reverse Distillation 기반 이상 탐지 프레임워크
+
+- **Korean Title:** 멀티모달 산업 이상 탐지를 위한 Cross-Predictive Reverse Distillation (크로스-프레딕티브 리벌스 디스틸레이션) 기반 이상 탐지 프레임워크
+- **Application No.:** 2026-033688
+- **Registration No.:** C-2026-028000
+- **Registration Date:** 2026-06-09
+- **Type:** Computer Program Copyright Registration
+- **Organization:** Korea Copyright Commission
+
+### Patents
+
+- To Be Updated
 
 ---
 
