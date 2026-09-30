@@ -85,7 +85,23 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 
 ### Patents
 
-- To Be Updated
+#### Multimodal Framework Based on Multiple Teachers and a Single Student for Industrial Anomaly Detection
+
+- **Korean Title:** 산업 이상 탐지를 위한 다중교사 단일학생 기반 멀티모달 프레임워크
+- **Application No.:** 10-2026-0165716
+- **Application Date:** 2026-09-01
+- **Status:** Filed
+- **Type:** Korean Patent Application
+- **Applicant:** 성균관대학교산학협력단
+
+#### Multimodal Framework Based on Cross-Predictive Reverse Distillation for Industrial Anomaly Detection
+
+- **Korean Title:** 산업 이상 탐지를 위한 교차예측 역증류 기반 멀티모달 프레임워크
+- **Application No.:** 10-2026-0143848
+- **Application Date:** 2026-08-03
+- **Status:** Filed
+- **Type:** Korean Patent Application
+- **Applicant:** 성균관대학교산학협력단
 
 ---
 
